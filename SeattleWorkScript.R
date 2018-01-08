@@ -226,3 +226,9 @@ View(Subsetd)
 
 View(PoliceData)
 
+##cooldude
+
+cool <- 1
+
+  
+  
